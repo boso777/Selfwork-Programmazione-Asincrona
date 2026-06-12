@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "MacBook Pro 14",
+    "categoria": "Elettronica",
+    "prezzo": 1999.99
+  },
+  {
+    "nome": "Sedia Ergonomica",
+    "categoria": "Arredamento",
+    "prezzo": 349.00
+  },
+  {
+    "nome": "The Pragmatic Programmer",
+    "categoria": "Libri",
+    "prezzo": 42.50
+  },
+  {
+    "nome": "Monitor LG 27\"",
+    "categoria": "Elettronica",
+    "prezzo": 399.00
+  },
+  {
+    "nome": "Tastiera Meccanica",
+    "categoria": "Elettronica",
+    "prezzo": 129.90
+  },
+  {
+    "nome": "Panzerotto",
+    "categoria": "Cibo",
+    "prezzo": 121
+  }
+]
